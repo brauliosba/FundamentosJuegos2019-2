@@ -1,0 +1,6 @@
+﻿  MainGame.cpp
+d:\_upc\funda\ta1\papuengine\maingame.cpp(88): warning C4244: 'argumento': conversión de 'Sint32' a 'float'; posible pérdida de datos
+d:\_upc\funda\ta1\papuengine\maingame.cpp(104): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  SpriteGenerator.cpp
+  Generando código...
+  PapuEngine.vcxproj -> D:\_UPC\Funda\TA1\Debug\PapuEngine.exe

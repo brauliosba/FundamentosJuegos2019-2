@@ -1,0 +1,15 @@
+Tecla A => Imagen 1 
+
+Tecla B => Imagen 2 
+
+Tecla C => Imagen 3 
+
+Tecla D => Imagen 4 
+
+Tecla E => Imagen 5 
+
+Tecla X => Acercar cámara
+
+Tecla V => Alejar cámara
+
+El player puede desplazarse con las teclas direcionales
