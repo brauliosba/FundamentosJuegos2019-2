@@ -1,4 +1,0 @@
-﻿  MainGame.cpp
-d:\_upc\funda\ta2\papuengine\maingame.cpp(90): warning C4244: 'argumento': conversión de 'Sint32' a 'float'; posible pérdida de datos
-d:\_upc\funda\ta2\papuengine\maingame.cpp(140): warning C4018: '<': no coinciden signed/unsigned
-  PapuEngine.vcxproj -> D:\_UPC\Funda\TA2\Debug\PapuEngine.exe
