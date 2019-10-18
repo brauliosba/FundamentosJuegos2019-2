@@ -29,9 +29,9 @@ void MainGame::initLevel() {
 		&_inputManager);
 	_spriteBacth.init();
 	zombies.push_back(new Zombie());
-	zombies.back()->init(0.5f, glm::vec2(600, 200), 0);
+	zombies.back()->init(0.5f, glm::vec2(300, 200));
 	zombies.push_back(new Zombie());
-	zombies.back()->init(-0.5f, glm::vec2(1200, 200), 1);
+	zombies.back()->init(-0.5f, glm::vec2(900, 200));
 }
 
 void MainGame::initShaders() {

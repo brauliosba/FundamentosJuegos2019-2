@@ -5,9 +5,8 @@ Zombie::Zombie()
 {
 }
 
-void Zombie::init(float _speed, glm::vec2 _position, int _type)
+void Zombie::init(float _speed, glm::vec2 _position)
 {
-	type = _type;
 	speed = _speed;
 	position = _position;
 	color.r = 240;
@@ -18,13 +17,13 @@ void Zombie::init(float _speed, glm::vec2 _position, int _type)
 
 void Zombie::update()
 {
-	position.x += speed;
 	if (position.x == 1000) {
 		speed *= -1;
 	}
 	if (position.x == 200) {
 		speed *= -1;
 	}
+	position.x += speed;
 }
 
 void Zombie::draw(SpriteBacth & spritebatch)

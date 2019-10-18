@@ -1,41 +1,4 @@
-﻿  Agent.cpp
-  Camera2D.cpp
-  Error.cpp
-  GLS_Program.cpp
-  Human.cpp
-  ImageLoader.cpp
-d:\_upc\funda\ta2\papuengine\imageloader.cpp(36): warning C4244: '=': conversión de 'unsigned long' a 'float'; posible pérdida de datos
-d:\_upc\funda\ta2\papuengine\imageloader.cpp(37): warning C4244: '=': conversión de 'unsigned long' a 'float'; posible pérdida de datos
-  InputManager.cpp
-  IOManager.cpp
-d:\_upc\funda\ta2\papuengine\iomanager.cpp(15): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
-d:\_upc\funda\ta2\papuengine\iomanager.cpp(18): warning C4244: '-=': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
-  Level.cpp
-d:\_upc\funda\ta2\papuengine\level.cpp(57): warning C4244: '=': conversión de 'size_t' a 'T'; posible pérdida de datos
-          with
-          [
-              T=float
-          ]
-d:\_upc\funda\ta2\papuengine\level.cpp(58): warning C4244: '=': conversión de 'size_t' a 'T'; posible pérdida de datos
-          with
-          [
-              T=float
-          ]
-  main.cpp
-  MainGame.cpp
+﻿  MainGame.cpp
 d:\_upc\funda\ta2\papuengine\maingame.cpp(90): warning C4244: 'argumento': conversión de 'Sint32' a 'float'; posible pérdida de datos
 d:\_upc\funda\ta2\papuengine\maingame.cpp(140): warning C4018: '<': no coinciden signed/unsigned
-  PapuEngine.cpp
-  picoPNG.cpp
-  Player.cpp
-  ResourceManager.cpp
-  Sprite.cpp
-  SpriteBacth.cpp
-d:\_upc\funda\ta2\papuengine\spritebacth.cpp(15): warning C4018: '<': no coinciden signed/unsigned
-d:\_upc\funda\ta2\papuengine\spritebacth.cpp(44): warning C4018: '<': no coinciden signed/unsigned
-d:\_upc\funda\ta2\papuengine\spritebacth.cpp(72): warning C4018: '<': no coinciden signed/unsigned
-  TextureCache.cpp
-  Window.cpp
-  Zombie.cpp
-  Generando código...
   PapuEngine.vcxproj -> D:\_UPC\Funda\TA2\Debug\PapuEngine.exe

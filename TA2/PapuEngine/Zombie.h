@@ -3,12 +3,10 @@
 
 class Zombie : public Human
 {
-private:
-	int type;
 public:
 	Zombie();
 	~Zombie();
-	void init(float _speed, glm::vec2 _position, int type);
+	void init(float _speed, glm::vec2 _position);
 	void update();
 	void draw(SpriteBacth& spritebatch);
 };
